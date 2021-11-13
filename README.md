@@ -6,3 +6,7 @@
 **Step 1:** Download "FPS Game" Folder
 
 **Step 2:** Run "FPS GAME.exe"
+
+**Step 3:** How To Play? Launch more than One Client
+
+**Step 4:** Enjoy!
